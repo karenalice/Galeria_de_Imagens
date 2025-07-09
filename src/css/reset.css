@@ -1,0 +1,9 @@
+
+/* Define que o padding e border não aumentam o tamanho total do elemento */
+
+* {
+  font-family:"Public Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
